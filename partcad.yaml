@@ -1,7 +1,7 @@
 desc: Standard NEMA* interfaces
-partcad: ">=0.6.0"
+partcad: ">=0.8.0"
 
-import:
+dependencies:
   pub:
     onlyInRoot: True
     type: git
